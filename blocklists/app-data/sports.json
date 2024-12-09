@@ -1,0 +1,187 @@
+[
+    {
+        "id": "bleacher-report",
+        "group": 14,
+        "name": "Bleacher Report",
+        "hosts": [
+            "bleacherreport.com"
+        ]
+    },
+    {
+        "id": "cos-sports",
+        "group": 14,
+        "name": "Cos Sports",
+        "hosts": [
+            "cossports.com"
+        ]
+    },
+    {
+        "id": "deadspin",
+        "group": 14,
+        "name": "Deadspin",
+        "hosts": [
+            "deadspin.com"
+        ]
+    },
+    {
+        "id": "espn",
+        "group": 14,
+        "name": "ESPN",
+        "hosts": [
+            "espn.com"
+        ]
+    },
+    {
+        "id": "essentiallysports",
+        "group": 1,
+        "name": "EssentiallySports",
+        "hosts": [
+            "essentiallysports.com"
+        ]
+    },
+    {
+        "id": "fansided",
+        "group": 14,
+        "name": "FanSided",
+        "hosts": [
+            "fansided.com"
+        ]
+    },
+    {
+        "id": "fox-sports",
+        "group": 14,
+        "name": "Fox Sports",
+        "hosts": [
+            "foxsports.com"
+        ]
+    },
+    {
+        "id": "mlb",
+        "group": 14,
+        "name": "MLB",
+        "hosts": [
+            "mlb.com"
+        ]
+    },
+    {
+        "id": "nba",
+        "group": 14,
+        "name": "NBA",
+        "hosts": [
+            "nba.com"
+        ]
+    },
+    {
+        "id": "nbc-sports",
+        "group": 14,
+        "name": "NBC Sports",
+        "hosts": [
+            "nbcsports.com"
+        ]
+    },
+    {
+        "id": "ncaa",
+        "group": 14,
+        "name": "NCAA",
+        "hosts": [
+            "ncaa.com"
+        ]
+    },
+    {
+        "id": "pro-football-weekly",
+        "group": 14,
+        "name": "Pro Football Weekly",
+        "hosts": [
+            "profootballweekly.com"
+        ]
+    },
+    {
+        "id": "rantsports",
+        "group": 14,
+        "name": "RantSports",
+        "hosts": [
+            "rantsports.com"
+        ]
+    },
+    {
+        "id": "rivals",
+        "group": 14,
+        "name": "Rivals",
+        "hosts": [
+            "n.rivals.com"
+        ]
+    },
+    {
+        "id": "sb-nation",
+        "group": 14,
+        "name": "SB Nation",
+        "hosts": [
+            "sbnation.com"
+        ]
+    },
+    {
+        "id": "scout",
+        "group": 14,
+        "name": "Scout",
+        "hosts": [
+            "scout.com"
+        ]
+    },
+    {
+        "id": "sky-sports",
+        "group": 1,
+        "name": "Sky Sports",
+        "hosts": [
+            "skysports.com",
+            "skysports.co.uk"
+        ]
+    },
+    {
+        "id": "sporting-news",
+        "group": 14,
+        "name": "Sporting News",
+        "hosts": [
+            "sportingnews.com"
+        ]
+    },
+    {
+        "id": "sports-illustrated",
+        "group": 14,
+        "name": "Sports Illustrated",
+        "hosts": [
+            "si.com"
+        ]
+    },
+    {
+        "id": "talksport",
+        "group": 1,
+        "name": "talkSPORT",
+        "hosts": [
+            "talksport.com"
+        ]
+    },
+    {
+        "id": "thepostgame",
+        "group": 14,
+        "name": "ThePostGame",
+        "hosts": [
+            "thepostgame.com"
+        ]
+    },
+    {
+        "id": "yahoo-sports",
+        "group": 14,
+        "name": "Yahoo Sports",
+        "hosts": [
+            "sports.yahoo.com"
+        ]
+    },
+    {
+        "id": "yardbarker",
+        "group": 14,
+        "name": "Yardbarker",
+        "hosts": [
+            "yardbarker.com"
+        ]
+    }
+]

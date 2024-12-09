@@ -1,0 +1,292 @@
+[
+    {
+        "id": "abc-news",
+        "group": 9,
+        "name": "ABC News",
+        "hosts": [
+            "abcnews.go.com"
+        ]
+    },
+    {
+        "id": "bbc",
+        "group": 9,
+        "name": "BBC",
+        "hosts": [
+            "bbc.com",
+            "bbc.co.uk"
+        ]
+    },
+    {
+        "id": "bloomberg",
+        "group": 9,
+        "name": "Bloomberg",
+        "hosts": [
+            "bloomberg.com"
+        ]
+    },
+    {
+        "id": "breitbart",
+        "group": 9,
+        "name": "Breitbart",
+        "hosts": [
+            "breitbart.com"
+        ]
+    },
+    {
+        "id": "cbs-local",
+        "group": 9,
+        "name": "CBS Local",
+        "hosts": [
+            "cbslocal.com"
+        ]
+    },
+    {
+        "id": "cbs-news",
+        "group": 9,
+        "name": "CBS News",
+        "hosts": [
+            "cbsnews.com"
+        ]
+    },
+    {
+        "id": "cnbc",
+        "group": 9,
+        "name": "CNBC",
+        "hosts": [
+            "cnbc.com"
+        ]
+    },
+    {
+        "id": "cnn",
+        "group": 9,
+        "name": "CNN",
+        "hosts": [
+            "cnn.com"
+        ]
+    },
+    {
+        "id": "daily-mail",
+        "group": 9,
+        "name": "Daily Mail",
+        "hosts": [
+            "dailymail.co.uk"
+        ]
+    },
+    {
+        "id": "der-spiegel",
+        "group": 9,
+        "name": "Der Spiegel",
+        "hosts": [
+            "spiegel.de"
+        ]
+    },
+    {
+        "id": "feedly",
+        "group": 9,
+        "name": "Feedly",
+        "hosts": [
+            "feedly.com"
+        ]
+    },
+    {
+        "id": "forbes",
+        "group": 9,
+        "name": "Forbes",
+        "hosts": [
+            "forbes.com"
+        ]
+    },
+    {
+        "id": "fox-news",
+        "group": 9,
+        "name": "Fox News",
+        "hosts": [
+            "foxnews.com"
+        ]
+    },
+    {
+        "id": "google-news",
+        "group": 9,
+        "name": "Google News",
+        "hosts": [
+            "news.google.com"
+        ]
+    },
+    {
+        "id": "la-times",
+        "group": 9,
+        "name": "LA Times",
+        "hosts": [
+            "latimes.com"
+        ]
+    },
+    {
+        "id": "macrumors",
+        "group": 9,
+        "name": "MacRumors",
+        "hosts": [
+            "macrumors.com"
+        ]
+    },
+    {
+        "id": "msn",
+        "group": 9,
+        "name": "MSN",
+        "hosts": [
+            "msn.com"
+        ]
+    },
+    {
+        "id": "msnbc",
+        "group": 9,
+        "name": "MSNBC",
+        "hosts": [
+            "msnbc.com"
+        ]
+    },
+    {
+        "id": "nbc-news",
+        "group": 9,
+        "name": "NBC News",
+        "hosts": [
+            "nbcnews.com"
+        ]
+    },
+    {
+        "id": "new-york-magazine",
+        "group": 9,
+        "name": "New York Magazine",
+        "hosts": [
+            "nymag.com"
+        ]
+    },
+    {
+        "id": "new-york-post",
+        "group": 9,
+        "name": "New York Post",
+        "hosts": [
+            "nypost.com"
+        ]
+    },
+    {
+        "id": "npr",
+        "group": 9,
+        "name": "NPR",
+        "hosts": [
+            "npr.org"
+        ]
+    },
+    {
+        "id": "ny-daily-news",
+        "group": 9,
+        "name": "NY Daily News",
+        "hosts": [
+            "nydailynews.com"
+        ]
+    },
+    {
+        "id": "reuters",
+        "group": 9,
+        "name": "Reuters",
+        "hosts": [
+            "reuters.com"
+        ]
+    },
+    {
+        "id": "salon",
+        "group": 9,
+        "name": "Salon",
+        "hosts": [
+            "salon.com"
+        ]
+    },
+    {
+        "id": "slate",
+        "group": 9,
+        "name": "Slate",
+        "hosts": [
+            "slate.com"
+        ]
+    },
+    {
+        "id": "the-atlantic",
+        "group": 9,
+        "name": "The Atlantic",
+        "hosts": [
+            "theatlantic.com"
+        ]
+    },
+    {
+        "id": "the-guardian",
+        "group": 9,
+        "name": "The Guardian",
+        "hosts": [
+            "theguardian.com"
+        ]
+    },
+    {
+        "id": "the-independent",
+        "group": 9,
+        "name": "The Independent",
+        "hosts": [
+            "independent.co.uk"
+        ]
+    },
+    {
+        "id": "the-new-york-times",
+        "group": 9,
+        "name": "The New York Times",
+        "hosts": [
+            "nytimes.com"
+        ]
+    },
+    {
+        "id": "the-new-yorker",
+        "group": 9,
+        "name": "The New Yorker",
+        "hosts": [
+            "newyorker.com"
+        ]
+    },
+    {
+        "id": "the-telegraph",
+        "group": 9,
+        "name": "The Telegraph",
+        "hosts": [
+            "telegraph.co.uk"
+        ]
+    },
+    {
+        "id": "the-wall-street-journal",
+        "group": 9,
+        "name": "The Wall Street Journal",
+        "hosts": [
+            "wsj.com",
+            "wsj.net"
+        ]
+    },
+    {
+        "id": "the-washington-post",
+        "group": 9,
+        "name": "The Washington Post",
+        "hosts": [
+            "washingtonpost.com"
+        ]
+    },
+    {
+        "id": "usa-today",
+        "group": 9,
+        "name": "USA Today",
+        "hosts": [
+            "usatoday.com"
+        ]
+    },
+    {
+        "id": "vice",
+        "group": 9,
+        "name": "Vice",
+        "hosts": [
+            "vice.com"
+        ]
+    }
+]

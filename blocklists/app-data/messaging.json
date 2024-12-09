@@ -1,0 +1,92 @@
+[
+    {
+        "id": "discord",
+        "group": 7,
+        "name": "Discord",
+        "hosts": [
+            "discord.gg",
+            "discord.media",
+            "discordapp.com",
+            "discordapp.net"
+        ]
+    },
+    {
+        "id": "line",
+        "group": 7,
+        "name": "LINE",
+        "hosts": [
+            "line.me"
+        ]
+    },
+    {
+        "id": "messenger",
+        "group": 7,
+        "name": "Messenger",
+        "hosts": [
+            "m.me",
+            "messenger.com",
+            "msngr.com"
+        ]
+    },
+    {
+        "id": "skype",
+        "group": 7,
+        "name": "Skype",
+        "hosts": [
+            "skype.com"
+        ]
+    },
+    {
+        "id": "slack",
+        "group": 7,
+        "name": "Slack",
+        "hosts": [
+            "edgeapi.slack.com",
+            "wss-backup.slack.com",
+            "wss-mobile.slack.com",
+            "wss-primary.slack.com",
+            "slack-core.com",
+            "slack-edge.com",
+            "slack-files.com",
+            "slack-imgs.com",
+            "slack-msgs.com",
+            "slack-redir.net",
+            "slack.com"
+        ]
+    },
+    {
+        "id": "telegram",
+        "group": 7,
+        "name": "Telegram",
+        "hosts": [
+            "t.me",
+            "telegram.org",
+            "telesco.pe"
+        ]
+    },
+    {
+        "id": "viber",
+        "group": 7,
+        "name": "Viber",
+        "hosts": [
+            "viber.com"
+        ]
+    },
+    {
+        "id": "wechat",
+        "group": 7,
+        "name": "WeChat",
+        "hosts": [
+            "wechat.com"
+        ]
+    },
+    {
+        "id": "whatsapp",
+        "group": 7,
+        "name": "WhatsApp",
+        "hosts": [
+            "whatsapp.com",
+            "whatsapp.net"
+        ]
+    }
+]

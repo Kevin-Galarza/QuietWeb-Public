@@ -1,0 +1,181 @@
+[
+    {
+        "id": "9gag",
+        "group": 13,
+        "name": "9GAG",
+        "hosts": [
+            "9gag.com",
+            "m.9gag.com"
+        ]
+    },
+    {
+        "id": "bereal",
+        "group": 13,
+        "name": "BeReal",
+        "hosts": [
+            "bere.al",
+            "bereal.com"
+        ]
+    },
+    {
+        "id": "classmates",
+        "group": 13,
+        "name": "Classmates",
+        "hosts": [
+            "classmates.com"
+        ]
+    },
+    {
+        "id": "clubhouse",
+        "group": 13,
+        "name": "Clubhouse",
+        "hosts": [
+            "clubhouse.com"
+        ]
+    },
+    {
+        "id": "facebook",
+        "group": 13,
+        "name": "Facebook",
+        "hosts": [
+            "facebook.com",
+            "m.facebook.com",
+            "fbcdn.net",
+            "fbcdn.com",
+            "fbcdn-photos-a.akamaihd.net",
+            "fbcdn-profile-a.akamaihd.net",
+            "akamaihd.net",
+            "fr-fr.facebook.com",
+            "es-la.facebook.com",
+            "pt-br.facebook.com",
+            "de-de.facebook.com"
+        ]
+    },
+    {
+        "id": "flickr",
+        "group": 13,
+        "name": "Flickr",
+        "hosts": [
+            "flickr.com",
+            "staticflickr.com",
+            "flickrstatic.com"
+        ]
+    },
+    {
+        "id": "instagram",
+        "group": 13,
+        "name": "Instagram",
+        "hosts": [
+            "instagram.com",
+            "i.instagram.com"
+        ]
+    },
+    {
+        "id": "linkedin",
+        "group": 13,
+        "name": "LinkedIn",
+        "hosts": [
+            "linkedin.com",
+            "media.licdn.com",
+            "licdn.com"
+        ]
+    },
+    {
+        "id": "mastodon",
+        "group": 13,
+        "name": "Mastodon",
+        "hosts": [
+            "mastodon.social",
+            "mastodon.online",
+            "mastodon.cloud"
+        ]
+    },
+    {
+        "id": "meetup",
+        "group": 13,
+        "name": "Meetup",
+        "hosts": [
+            "meetup.com",
+            "secure.meetupstatic.com"
+        ]
+    },
+    {
+        "id": "nextdoor",
+        "group": 13,
+        "name": "Nextdoor",
+        "hosts": [
+            "nextdoor.com"
+        ]
+    },
+    {
+        "id": "pinterest",
+        "group": 13,
+        "name": "Pinterest",
+        "hosts": [
+            "pinterest.com",
+            "i.pinimg.com",
+            "pinimg.com",
+            "s.pinimg.com"
+        ]
+    },
+    {
+        "id": "reddit",
+        "group": 13,
+        "name": "Reddit",
+        "hosts": [
+            "reddit.com",
+            "old.reddit.com",
+            "redditmedia.com",
+            "redditstatic.com",
+            "reddit-uploadedmedia.s3.amazonaws.com"
+        ]
+    },
+    {
+        "id": "snapchat",
+        "group": 13,
+        "name": "Snapchat",
+        "hosts": [
+            "snapchat.com",
+            "scdn.snapchat.com"
+        ]
+    },
+    {
+        "id": "tiktok",
+        "group": 13,
+        "name": "TikTok",
+        "hosts": [
+            "tiktok.com",
+            "m.tiktok.com",
+            "v.tiktok.com",
+            "p16-tiktokcdn-com.akamaized.net",
+            "p16-tiktokcdn-com.byteimg.com"
+        ]
+    },
+    {
+        "id": "vkontakte",
+        "group": 13,
+        "name": "VKontakte",
+        "hosts": [
+            "vkontakte.ru",
+            "vk.com",
+            "m.vk.com",
+            "vk.me",
+            "userapi.com",
+            "vkuserphoto.com"
+        ]
+    },
+    {
+        "id": "x-formerly-twitter",
+        "group": 13,
+        "name": "X (formerly Twitter)",
+        "hosts": [
+            "twitter.com",
+            "mobile.twitter.com",
+            "t.co",
+            "twimg.com",
+            "abs.twimg.com",
+            "pbs.twimg.com",
+            "x.com"
+        ]
+    }
+]

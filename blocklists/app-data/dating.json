@@ -1,0 +1,196 @@
+[
+    {
+        "id": "badoo",
+        "group": 2,
+        "name": "Badoo",
+        "hosts": [
+            "badoo.com"
+        ]
+    },
+    {
+        "id": "blackpeoplemeet",
+        "group": 2,
+        "name": "BlackPeopleMeet",
+        "hosts": [
+            "blackpeoplemeet.com"
+        ]
+    },
+    {
+        "id": "bumble",
+        "group": 2,
+        "name": "Bumble",
+        "hosts": [
+            "bumbcdn.com",
+            "bumble.com"
+        ]
+    },
+    {
+        "id": "chemistry",
+        "group": 2,
+        "name": "Chemistry",
+        "hosts": [
+            "chemistry.com"
+        ]
+    },
+    {
+        "id": "christian-mingle",
+        "group": 2,
+        "name": "Christian Mingle",
+        "hosts": [
+            "christianmingle.com"
+        ]
+    },
+    {
+        "id": "coffee-meets-bagel",
+        "group": 2,
+        "name": "Coffee Meets Bagel",
+        "hosts": [
+            "coffeemeetsbagel.com"
+        ]
+    },
+    {
+        "id": "datehookup",
+        "group": 2,
+        "name": "DateHookup",
+        "hosts": [
+            "datehookup.com"
+        ]
+    },
+    {
+        "id": "eharmony",
+        "group": 2,
+        "name": "eHarmony",
+        "hosts": [
+            "eharmony.com"
+        ]
+    },
+    {
+        "id": "elitesingles",
+        "group": 2,
+        "name": "EliteSingles",
+        "hosts": [
+            "elitesingles.com"
+        ]
+    },
+    {
+        "id": "girlfriendsmeet",
+        "group": 2,
+        "name": "GirlfriendsMeet",
+        "hosts": [
+            "girlfriendsmeet.com"
+        ]
+    },
+    {
+        "id": "grindr",
+        "group": 2,
+        "name": "Grindr",
+        "hosts": [
+            "grindr.com"
+        ]
+    },
+    {
+        "id": "her",
+        "group": 2,
+        "name": "HER",
+        "hosts": [
+            "her.com"
+        ]
+    },
+    {
+        "id": "hinge",
+        "group": 2,
+        "name": "Hinge",
+        "hosts": [
+            "hinge.co",
+            "hingeaws.net"
+        ]
+    },
+    {
+        "id": "howaboutwe",
+        "group": 2,
+        "name": "HowAboutWe",
+        "hosts": [
+            "howaboutwe.com"
+        ]
+    },
+    {
+        "id": "jdate",
+        "group": 2,
+        "name": "JDate",
+        "hosts": [
+            "jdate.com"
+        ]
+    },
+    {
+        "id": "match",
+        "group": 2,
+        "name": "Match",
+        "hosts": [
+            "match.com"
+        ]
+    },
+    {
+        "id": "okcupid",
+        "group": 2,
+        "name": "OkCupid",
+        "hosts": [
+            "okcupid.com"
+        ]
+    },
+    {
+        "id": "ourtime",
+        "group": 2,
+        "name": "OurTime",
+        "hosts": [
+            "ourtime.com"
+        ]
+    },
+    {
+        "id": "plenty-of-fish",
+        "group": 2,
+        "name": "Plenty of Fish",
+        "hosts": [
+            "pof.com"
+        ]
+    },
+    {
+        "id": "seniorpeoplemeet",
+        "group": 2,
+        "name": "SeniorPeopleMeet",
+        "hosts": [
+            "seniorpeoplemeet.com"
+        ]
+    },
+    {
+        "id": "speeddate",
+        "group": 2,
+        "name": "SpeedDate",
+        "hosts": [
+            "speeddate.com"
+        ]
+    },
+    {
+        "id": "the-inner-circle",
+        "group": 2,
+        "name": "The Inner Circle",
+        "hosts": [
+            "theinnercircle.co"
+        ]
+    },
+    {
+        "id": "tinder",
+        "group": 2,
+        "name": "Tinder",
+        "hosts": [
+            "tinder.com"
+        ]
+    },
+    {
+        "id": "zoosk",
+        "group": 2,
+        "name": "Zoosk",
+        "hosts": [
+            "zoosk.com"
+        ]
+    }
+]

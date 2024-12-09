@@ -1,0 +1,315 @@
+[
+    {
+        "id": "abc",
+        "group": 15,
+        "name": "ABC",
+        "hosts": [
+            "abc.go.com"
+        ]
+    },
+    {
+        "id": "acorn-tv",
+        "group": 15,
+        "name": "Acorn TV",
+        "hosts": [
+            "acorn.tv"
+        ]
+    },
+    {
+        "id": "apple-tv",
+        "group": 15,
+        "name": "Apple TV+",
+        "hosts": [
+            "tv.apple.com"
+        ]
+    },
+    {
+        "id": "britbox",
+        "group": 15,
+        "name": "BritBox",
+        "hosts": [
+            "britbox.com"
+        ]
+    },
+    {
+        "id": "cbs",
+        "group": 15,
+        "name": "CBS",
+        "hosts": [
+            "cbs.com"
+        ]
+    },
+    {
+        "id": "crackle",
+        "group": 15,
+        "name": "Crackle",
+        "hosts": [
+            "crackle.com"
+        ]
+    },
+    {
+        "id": "crunchyroll",
+        "group": 15,
+        "name": "Crunchyroll",
+        "hosts": [
+            "crunchyroll.com"
+        ]
+    },
+    {
+        "id": "curiositystream",
+        "group": 15,
+        "name": "CuriosityStream",
+        "hosts": [
+            "curiositystream.com"
+        ]
+    },
+    {
+        "id": "dailymotion",
+        "group": 15,
+        "name": "Dailymotion",
+        "hosts": [
+            "dailymotion.com"
+        ]
+    },
+    {
+        "id": "directv-now",
+        "group": 15,
+        "name": "DirecTV Now",
+        "hosts": [
+            "directvnow.com"
+        ]
+    },
+    {
+        "id": "discovery",
+        "group": 15,
+        "name": "Discovery+",
+        "hosts": [
+            "discoveryplus.com"
+        ]
+    },
+    {
+        "id": "disney-plus",
+        "group": 15,
+        "name": "Disney Plus",
+        "hosts": [
+            "disney-plus.net",
+            "disneyplus.com"
+        ]
+    },
+    {
+        "id": "fox",
+        "group": 15,
+        "name": "Fox",
+        "hosts": [
+            "fox.com"
+        ]
+    },
+    {
+        "id": "fubotv",
+        "group": 15,
+        "name": "FuboTV",
+        "hosts": [
+            "fubo.tv"
+        ]
+    },
+    {
+        "id": "hbo-go",
+        "group": 15,
+        "name": "HBO Go",
+        "hosts": [
+            "hbogo.com"
+        ]
+    },
+    {
+        "id": "hbo-now",
+        "group": 15,
+        "name": "HBO Now",
+        "hosts": [
+            "hbonow.com"
+        ]
+    },
+    {
+        "id": "hulu",
+        "group": 15,
+        "name": "Hulu",
+        "hosts": [
+            "hulu.com"
+        ]
+    },
+    {
+        "id": "kanopy",
+        "group": 15,
+        "name": "Kanopy",
+        "hosts": [
+            "kanopy.com"
+        ]
+    },
+    {
+        "id": "nbc",
+        "group": 15,
+        "name": "NBC",
+        "hosts": [
+            "nbc.com"
+        ]
+    },
+    {
+        "id": "netflix",
+        "group": 15,
+        "name": "Netflix",
+        "hosts": [
+            "netflix.com"
+        ]
+    },
+    {
+        "id": "paramount",
+        "group": 15,
+        "name": "Paramount+",
+        "hosts": [
+            "paramountplus.com"
+        ]
+    },
+    {
+        "id": "peacock",
+        "group": 15,
+        "name": "Peacock",
+        "hosts": [
+            "peacocktv.com"
+        ]
+    },
+    {
+        "id": "philo",
+        "group": 15,
+        "name": "Philo",
+        "hosts": [
+            "philo.com"
+        ]
+    },
+    {
+        "id": "playstation",
+        "group": 15,
+        "name": "PlayStation",
+        "hosts": [
+            "playstation.com"
+        ]
+    },
+    {
+        "id": "plex",
+        "group": 15,
+        "name": "Plex",
+        "hosts": [
+            "plex.tv"
+        ]
+    },
+    {
+        "id": "pluto-tv",
+        "group": 15,
+        "name": "Pluto TV",
+        "hosts": [
+            "pluto.tv"
+        ]
+    },
+    {
+        "id": "prime-video",
+        "group": 15,
+        "name": "Prime Video",
+        "hosts": [
+            "primevideo.com"
+        ]
+    },
+    {
+        "id": "rakuten-viki",
+        "group": 15,
+        "name": "Rakuten Viki",
+        "hosts": [
+            "viki.com"
+        ]
+    },
+    {
+        "id": "roku-channel",
+        "group": 15,
+        "name": "Roku Channel",
+        "hosts": [
+            "therokuchannel.roku.com"
+        ]
+    },
+    {
+        "id": "showtime",
+        "group": 15,
+        "name": "Showtime",
+        "hosts": [
+            "sho.com"
+        ]
+    },
+    {
+        "id": "shudder",
+        "group": 15,
+        "name": "Shudder",
+        "hosts": [
+            "shudder.com"
+        ]
+    },
+    {
+        "id": "sling-tv",
+        "group": 15,
+        "name": "Sling TV",
+        "hosts": [
+            "sling.com"
+        ]
+    },
+    {
+        "id": "starz",
+        "group": 15,
+        "name": "Starz",
+        "hosts": [
+            "starz.com"
+        ]
+    },
+    {
+        "id": "tubi-tv",
+        "group": 15,
+        "name": "Tubi TV",
+        "hosts": [
+            "tubitv.com"
+        ]
+    },
+    {
+        "id": "twitch",
+        "group": 15,
+        "name": "Twitch",
+        "hosts": [
+            "twitch.tv"
+        ]
+    },
+    {
+        "id": "vimeo",
+        "group": 15,
+        "name": "Vimeo",
+        "hosts": [
+            "vimeo.com"
+        ]
+    },
+    {
+        "id": "xfinity",
+        "group": 15,
+        "name": "Xfinity",
+        "hosts": [
+            "xfinity.com"
+        ]
+    },
+    {
+        "id": "yahoo-view",
+        "group": 15,
+        "name": "Yahoo View",
+        "hosts": [
+            "view.yahoo.com"
+        ]
+    },
+    {
+        "id": "youtube",
+        "group": 15,
+        "name": "YouTube",
+        "hosts": [
+            "youtube.com"
+        ]
+    }
+]

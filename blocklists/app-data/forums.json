@@ -1,0 +1,43 @@
+[
+    {
+        "id": "quora",
+        "group": 4,
+        "name": "Quora",
+        "hosts": [
+            "quora.com"
+        ]
+    },
+    {
+        "id": "stack-exchange",
+        "group": 4,
+        "name": "Stack Exchange",
+        "hosts": [
+            "stackexchange.com",
+            "stackoverflow.com"
+        ]
+    },
+    {
+        "id": "trip-advisor",
+        "group": 4,
+        "name": "Trip Advisor",
+        "hosts": [
+            "tripadvisor.com",
+            "tripadvisor.co.uk",
+            "tripadvisor.in",
+            "tripadvisor.com.au",
+            "tripadvisor.ca",
+            "tripadvisor.de",
+            "tripadvisor.fr",
+            "tripadvisor.it",
+            "tripadvisor.es"
+        ]
+    },
+    {
+        "id": "yelp",
+        "group": 4,
+        "name": "Yelp",
+        "hosts": [
+            "yelp.com"
+        ]
+    }
+]

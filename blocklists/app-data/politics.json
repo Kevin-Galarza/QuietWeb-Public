@@ -1,0 +1,315 @@
+[
+    {
+        "id": "al-jazeera",
+        "group": 10,
+        "name": "Al Jazeera",
+        "hosts": [
+            "aljazeera.com"
+        ]
+    },
+    {
+        "id": "boing-boing",
+        "group": 10,
+        "name": "Boing Boing",
+        "hosts": [
+            "boingboing.net"
+        ]
+    },
+    {
+        "id": "brookings",
+        "group": 10,
+        "name": "Brookings",
+        "hosts": [
+            "brookings.edu"
+        ]
+    },
+    {
+        "id": "common-dreams",
+        "group": 10,
+        "name": "Common Dreams",
+        "hosts": [
+            "commondreams.org"
+        ]
+    },
+    {
+        "id": "crowdpac",
+        "group": 10,
+        "name": "Crowdpac",
+        "hosts": [
+            "crowdpac.com"
+        ]
+    },
+    {
+        "id": "daily-caller",
+        "group": 10,
+        "name": "Daily Caller",
+        "hosts": [
+            "dailycaller.com"
+        ]
+    },
+    {
+        "id": "daily-dot",
+        "group": 10,
+        "name": "Daily Dot",
+        "hosts": [
+            "dailydot.com"
+        ]
+    },
+    {
+        "id": "daily-kos",
+        "group": 10,
+        "name": "Daily Kos",
+        "hosts": [
+            "dailykos.com"
+        ]
+    },
+    {
+        "id": "drudge-report",
+        "group": 10,
+        "name": "Drudge Report",
+        "hosts": [
+            "drudgereport.com"
+        ]
+    },
+    {
+        "id": "electoral-vote",
+        "group": 10,
+        "name": "Electoral Vote",
+        "hosts": [
+            "electoral-vote.com"
+        ]
+    },
+    {
+        "id": "first-look-media",
+        "group": 10,
+        "name": "First Look Media",
+        "hosts": [
+            "firstlook.org"
+        ]
+    },
+    {
+        "id": "fivethirtyeight",
+        "group": 10,
+        "name": "FiveThirtyEight",
+        "hosts": [
+            "fivethirtyeight.com"
+        ]
+    },
+    {
+        "id": "free-republic",
+        "group": 10,
+        "name": "Free Republic",
+        "hosts": [
+            "freerepublic.com"
+        ]
+    },
+    {
+        "id": "indymedia",
+        "group": 10,
+        "name": "Indymedia",
+        "hosts": [
+            "indymedia.org"
+        ]
+    },
+    {
+        "id": "infowars",
+        "group": 10,
+        "name": "InfoWars",
+        "hosts": [
+            "infowars.com"
+        ]
+    },
+    {
+        "id": "national-review",
+        "group": 10,
+        "name": "National Review",
+        "hosts": [
+            "nationalreview.com"
+        ]
+    },
+    {
+        "id": "newsmax",
+        "group": 10,
+        "name": "Newsmax",
+        "hosts": [
+            "newsmax.com"
+        ]
+    },
+    {
+        "id": "politico",
+        "group": 10,
+        "name": "Politico",
+        "hosts": [
+            "politico.com"
+        ]
+    },
+    {
+        "id": "politifact",
+        "group": 10,
+        "name": "PolitiFact",
+        "hosts": [
+            "politifact.com"
+        ]
+    },
+    {
+        "id": "realclearpolitics",
+        "group": 10,
+        "name": "RealClearPolitics",
+        "hosts": [
+            "realclearpolitics.com"
+        ]
+    },
+    {
+        "id": "reason",
+        "group": 10,
+        "name": "Reason",
+        "hosts": [
+            "reason.com"
+        ]
+    },
+    {
+        "id": "redstate",
+        "group": 10,
+        "name": "RedState",
+        "hosts": [
+            "redstate.com"
+        ]
+    },
+    {
+        "id": "rt-russia-today",
+        "group": 10,
+        "name": "RT (Russia Today)",
+        "hosts": [
+            "rt.com"
+        ]
+    },
+    {
+        "id": "talking-points-memo",
+        "group": 10,
+        "name": "Talking Points Memo",
+        "hosts": [
+            "talkingpointsmemo.com"
+        ]
+    },
+    {
+        "id": "the-blaze",
+        "group": 10,
+        "name": "The Blaze",
+        "hosts": [
+            "theblaze.com"
+        ]
+    },
+    {
+        "id": "the-hill",
+        "group": 10,
+        "name": "The Hill",
+        "hosts": [
+            "thehill.com"
+        ]
+    },
+    {
+        "id": "the-intercept",
+        "group": 10,
+        "name": "The Intercept",
+        "hosts": [
+            "theintercept.com"
+        ]
+    },
+    {
+        "id": "the-nation",
+        "group": 10,
+        "name": "The Nation",
+        "hosts": [
+            "thenation.com"
+        ]
+    },
+    {
+        "id": "thinkprogress",
+        "group": 10,
+        "name": "ThinkProgress",
+        "hosts": [
+            "thinkprogress.org"
+        ]
+    },
+    {
+        "id": "time",
+        "group": 10,
+        "name": "Time",
+        "hosts": [
+            "time.com"
+        ]
+    },
+    {
+        "id": "townhall",
+        "group": 10,
+        "name": "Townhall",
+        "hosts": [
+            "townhall.com"
+        ]
+    },
+    {
+        "id": "us-news--world-report",
+        "group": 10,
+        "name": "US News & World Report",
+        "hosts": [
+            "usnews.com"
+        ]
+    },
+    {
+        "id": "vox",
+        "group": 10,
+        "name": "Vox",
+        "hosts": [
+            "vox.com"
+        ]
+    },
+    {
+        "id": "wall-street-journal",
+        "group": 10,
+        "name": "Wall Street Journal",
+        "hosts": [
+            "wsj.com",
+            "wsj.net"
+        ]
+    },
+    {
+        "id": "washington-post",
+        "group": 10,
+        "name": "Washington Post",
+        "hosts": [
+            "washingtonpost.com"
+        ]
+    },
+    {
+        "id": "washington-times",
+        "group": 10,
+        "name": "Washington Times",
+        "hosts": [
+            "washingtontimes.com"
+        ]
+    },
+    {
+        "id": "weekly-standard",
+        "group": 10,
+        "name": "Weekly Standard",
+        "hosts": [
+            "weeklystandard.org"
+        ]
+    },
+    {
+        "id": "wnd-worldnetdaily",
+        "group": 10,
+        "name": "WND (WorldNetDaily)",
+        "hosts": [
+            "wnd.com"
+        ]
+    },
+    {
+        "id": "yahoo-news",
+        "group": 10,
+        "name": "Yahoo News",
+        "hosts": [
+            "news.yahoo.com"
+        ]
+    }
+]

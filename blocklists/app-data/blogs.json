@@ -1,0 +1,442 @@
+[
+    {
+        "id": "90min",
+        "group": 1,
+        "name": "90min",
+        "hosts": [
+            "90min.com"
+        ]
+    },
+    {
+        "id": "ars-technica",
+        "group": 1,
+        "name": "Ars Technica",
+        "hosts": [
+            "arstechnica.com"
+        ]
+    },
+    {
+        "id": "billboard",
+        "group": 1,
+        "name": "Billboard",
+        "hosts": [
+            "billboard.com"
+        ]
+    },
+    {
+        "id": "blogger",
+        "group": 1,
+        "name": "Blogger",
+        "hosts": [
+            "blogger.com"
+        ]
+    },
+    {
+        "id": "brobible",
+        "group": 1,
+        "name": "BroBible",
+        "hosts": [
+            "brobible.com"
+        ]
+    },
+    {
+        "id": "business-insider",
+        "group": 1,
+        "name": "Business Insider",
+        "hosts": [
+            "businessinsider.com",
+            "businessinsider.in",
+            "businessinsider.de",
+            "businessinsider.co.za",
+            "businessinsider.com.au",
+            "businessinsider.com.pl",
+            "businessinsider.mx",
+            "businessinsider.fr",
+            "businessinsider.jp",
+            "businessinsider.nl"
+        ]
+    },
+    {
+        "id": "buzzfeed",
+        "group": 9,
+        "name": "BuzzFeed",
+        "hosts": [
+            "buzzfeed.com"
+        ]
+    },
+    {
+        "id": "cnet",
+        "group": 1,
+        "name": "CNET",
+        "hosts": [
+            "cnet.com"
+        ]
+    },
+    {
+        "id": "coindesk",
+        "group": 1,
+        "name": "CoinDesk",
+        "hosts": [
+            "coindesk.com"
+        ]
+    },
+    {
+        "id": "cointelegraph",
+        "group": 1,
+        "name": "Cointelegraph",
+        "hosts": [
+            "cointelegraph.com"
+        ]
+    },
+    {
+        "id": "cosmopolitan",
+        "group": 1,
+        "name": "Cosmopolitan",
+        "hosts": [
+            "cosmopolitan.com",
+            "cosmopolitan.fr",
+            "cosmopolitan.de"
+        ]
+    },
+    {
+        "id": "digital-spy",
+        "group": 1,
+        "name": "Digital Spy",
+        "hosts": [
+            "digitalspy.com"
+        ]
+    },
+    {
+        "id": "e-news",
+        "group": 1,
+        "name": "E! News",
+        "hosts": [
+            "eonline.com",
+            "uk.eonline.com"
+        ]
+    },
+    {
+        "id": "elle",
+        "group": 1,
+        "name": "Elle",
+        "hosts": [
+            "elle.com",
+            "elle.fr"
+        ]
+    },
+    {
+        "id": "engadget",
+        "group": 1,
+        "name": "Engadget",
+        "hosts": [
+            "engadget.com"
+        ]
+    },
+    {
+        "id": "entertainment-tonight",
+        "group": 1,
+        "name": "Entertainment Tonight",
+        "hosts": [
+            "etonline.com"
+        ]
+    },
+    {
+        "id": "entrepreneur",
+        "group": 1,
+        "name": "Entrepreneur",
+        "hosts": [
+            "entrepreneur.com"
+        ]
+    },
+    {
+        "id": "esquire",
+        "group": 1,
+        "name": "Esquire",
+        "hosts": [
+            "esquire.com",
+            "esquire.co.uk"
+        ]
+    },
+    {
+        "id": "far-out-magazine",
+        "group": 1,
+        "name": "Far Out Magazine",
+        "hosts": [
+            "faroutmagazine.co.uk"
+        ]
+    },
+    {
+        "id": "fast-company",
+        "group": 1,
+        "name": "Fast Company",
+        "hosts": [
+            "fastcompany.com"
+        ]
+    },
+    {
+        "id": "gizmodo",
+        "group": 1,
+        "name": "Gizmodo",
+        "hosts": [
+            "gizmodo.com",
+            "gizmodo.jp",
+            "gizmodo.de"
+        ]
+    },
+    {
+        "id": "gq",
+        "group": 1,
+        "name": "GQ",
+        "hosts": [
+            "gq.com",
+            "gq.co.uk"
+        ]
+    },
+    {
+        "id": "harpers-bazaar",
+        "group": 1,
+        "name": "Harper's BAZAAR",
+        "hosts": [
+            "harpersbazaar.com",
+            "harpersbazaar.co.uk"
+        ]
+    },
+    {
+        "id": "harvard-business-review",
+        "group": 1,
+        "name": "Harvard Business Review",
+        "hosts": [
+            "hbr.org",
+            "hbrascend.org"
+        ]
+    },
+    {
+        "id": "hiphopdx",
+        "group": 1,
+        "name": "HipHopDX",
+        "hosts": [
+            "hiphopdx.com"
+        ]
+    },
+    {
+        "id": "hollywood-life",
+        "group": 1,
+        "name": "Hollywood Life",
+        "hosts": [
+            "hollywoodlife.com"
+        ]
+    },
+    {
+        "id": "hotnewhiphop",
+        "group": 1,
+        "name": "HotNewHipHop",
+        "hosts": [
+            "hotnewhiphop.com"
+        ]
+    },
+    {
+        "id": "huff-post",
+        "group": 1,
+        "name": "Huff Post",
+        "hosts": [
+            "huffpost.com",
+            "huffingtonpost.com"
+        ]
+    },
+    {
+        "id": "lifehacker",
+        "group": 1,
+        "name": "Lifehacker",
+        "hosts": [
+            "lifehacker.com",
+            "lifehacker.jp",
+            "lifehacker.co.uk"
+        ]
+    },
+    {
+        "id": "louder",
+        "group": 1,
+        "name": "Louder",
+        "hosts": [
+            "loudersound.com"
+        ]
+    },
+    {
+        "id": "loudwire",
+        "group": 1,
+        "name": "Loudwire",
+        "hosts": [
+            "loudwire.com"
+        ]
+    },
+    {
+        "id": "marketwatch",
+        "group": 1,
+        "name": "MarketWatch",
+        "hosts": [
+            "marketwatch.com"
+        ]
+    },
+    {
+        "id": "mashable",
+        "group": 1,
+        "name": "Mashable",
+        "hosts": [
+            "mashable.com",
+            "in.mashable.com"
+        ]
+    },
+    {
+        "id": "medium",
+        "group": 1,
+        "name": "Medium",
+        "hosts": [
+            "medium.com"
+        ]
+    },
+    {
+        "id": "mens-health",
+        "group": 1,
+        "name": "Men's Health",
+        "hosts": [
+            "menshealth.com",
+            "menshealth.co.uk"
+        ]
+    },
+    {
+        "id": "nme",
+        "group": 1,
+        "name": "NME",
+        "hosts": [
+            "nme.com"
+        ]
+    },
+    {
+        "id": "page-six",
+        "group": 1,
+        "name": "Page Six",
+        "hosts": [
+            "pagesix.com"
+        ]
+    },
+    {
+        "id": "people",
+        "group": 1,
+        "name": "People",
+        "hosts": [
+            "people.com",
+            "peopleenespanol.com"
+        ]
+    },
+    {
+        "id": "pitchfork",
+        "group": 1,
+        "name": "Pitchfork",
+        "hosts": [
+            "pitchfork.com"
+        ]
+    },
+    {
+        "id": "rollingstone",
+        "group": 1,
+        "name": "RollingStone",
+        "hosts": [
+            "rollingstone.com",
+            "rollingstone.de"
+        ]
+    },
+    {
+        "id": "seeking-alpha",
+        "group": 1,
+        "name": "Seeking Alpha",
+        "hosts": [
+            "seekingalpha.com"
+        ]
+    },
+    {
+        "id": "small-business-trends",
+        "group": 1,
+        "name": "Small Business Trends",
+        "hosts": [
+            "smallbiztrends.com"
+        ]
+    },
+    {
+        "id": "techcrunch",
+        "group": 1,
+        "name": "TechCrunch",
+        "hosts": [
+            "techcrunch.com"
+        ]
+    },
+    {
+        "id": "the-athletic",
+        "group": 1,
+        "name": "The Athletic",
+        "hosts": [
+            "theathletic.com"
+        ]
+    },
+    {
+        "id": "the-verge",
+        "group": 1,
+        "name": "The Verge",
+        "hosts": [
+            "theverge.com"
+        ]
+    },
+    {
+        "id": "tmz",
+        "group": 1,
+        "name": "TMZ",
+        "hosts": [
+            "tmz.com",
+            "tmz.de"
+        ]
+    },
+    {
+        "id": "tumblr",
+        "group": 1,
+        "name": "Tumblr",
+        "hosts": [
+            "tumblr.com"
+        ]
+    },
+    {
+        "id": "typepad",
+        "group": 1,
+        "name": "Typepad",
+        "hosts": [
+            "typepad.com"
+        ]
+    },
+    {
+        "id": "vouge",
+        "group": 1,
+        "name": "Vouge",
+        "hosts": [
+            "vogue.com",
+            "vogue.co.uk",
+            "vogue.fr",
+            "vogue.it"
+        ]
+    },
+    {
+        "id": "wired",
+        "group": 1,
+        "name": "Wired",
+        "hosts": [
+            "wired.com",
+            "wired.co.uk",
+            "wired.jp"
+        ]
+    },
+    {
+        "id": "wordpress",
+        "group": 1,
+        "name": "WordPress",
+        "hosts": [
+            "wordpress.com"
+        ]
+    }
+]

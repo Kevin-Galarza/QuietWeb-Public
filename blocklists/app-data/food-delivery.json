@@ -1,0 +1,126 @@
+[
+    {
+        "id": "10bis",
+        "group": 3,
+        "name": "10bis",
+        "hosts": [
+            "10bis.co.il"
+        ]
+    },
+    {
+        "id": "doordash",
+        "group": 3,
+        "name": "DoorDash",
+        "hosts": [
+            "doordash.com"
+        ]
+    },
+    {
+        "id": "glovo",
+        "group": 3,
+        "name": "Glovo",
+        "hosts": [
+            "glovoapp.com"
+        ]
+    },
+    {
+        "id": "grubhub",
+        "group": 3,
+        "name": "Grubhub",
+        "hosts": [
+            "grubhub.com"
+        ]
+    },
+    {
+        "id": "just-eat",
+        "group": 3,
+        "name": "Just Eat",
+        "hosts": [
+            "just-eat.co.uk",
+            "just-eat.dk",
+            "just-eat.es",
+            "just-eat.fr",
+            "just-eat.ie",
+            "just-eat.it",
+            "just-eat.no",
+            "eat.ch"
+        ]
+    },
+    {
+        "id": "lieferando",
+        "group": 3,
+        "name": "Lieferando",
+        "hosts": [
+            "lieferando.at",
+            "lieferando.de"
+        ]
+    },
+    {
+        "id": "menulog",
+        "group": 3,
+        "name": "Menulog",
+        "hosts": [
+            "menulog.co.nz",
+            "menulog.com.au"
+        ]
+    },
+    {
+        "id": "postmates",
+        "group": 3,
+        "name": "Postmates",
+        "hosts": [
+            "postmates.com"
+        ]
+    },
+    {
+        "id": "pyszne",
+        "group": 3,
+        "name": "Pyszne",
+        "hosts": [
+            "pyszne.pl"
+        ]
+    },
+    {
+        "id": "seamless",
+        "group": 3,
+        "name": "Seamless",
+        "hosts": [
+            "seamless.com"
+        ]
+    },
+    {
+        "id": "skipthedishes",
+        "group": 3,
+        "name": "SkipTheDishes",
+        "hosts": [
+            "skipthedishes.com"
+        ]
+    },
+    {
+        "id": "takeaway",
+        "group": 3,
+        "name": "Takeaway",
+        "hosts": [
+            "takeaway.com"
+        ]
+    },
+    {
+        "id": "thuisbezorgd",
+        "group": 3,
+        "name": "Thuisbezorgd",
+        "hosts": [
+            "thuisbezorgd.nl"
+        ]
+    },
+    {
+        "id": "uber-eats",
+        "group": 3,
+        "name": "Uber Eats",
+        "hosts": [
+            "ubereats.com",
+            "cn-dc1.00joovae.org",
+            "cn-dcl.uber.com",
+            "cn-geo1.uber.com"
+        ]
+    }
+]

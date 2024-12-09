@@ -1,0 +1,306 @@
+[
+    {
+        "id": "amazon",
+        "group": 12,
+        "name": "Amazon",
+        "hosts": [
+            "amazon.com"
+        ]
+    },
+    {
+        "id": "anthropologie",
+        "group": 12,
+        "name": "Anthropologie",
+        "hosts": [
+            "anthropologie.com"
+        ]
+    },
+    {
+        "id": "apple",
+        "group": 12,
+        "name": "Apple",
+        "hosts": [
+            "apple.com"
+        ]
+    },
+    {
+        "id": "asos",
+        "group": 12,
+        "name": "ASOS",
+        "hosts": [
+            "asos.com"
+        ]
+    },
+    {
+        "id": "backcountry",
+        "group": 12,
+        "name": "Backcountry",
+        "hosts": [
+            "backcountry.com"
+        ]
+    },
+    {
+        "id": "barnes--noble",
+        "group": 12,
+        "name": "Barnes & Noble",
+        "hosts": [
+            "barnesandnoble.com"
+        ]
+    },
+    {
+        "id": "bed-bath--beyond",
+        "group": 12,
+        "name": "Bed Bath & Beyond",
+        "hosts": [
+            "bedbathandbeyond.com"
+        ]
+    },
+    {
+        "id": "best-buy",
+        "group": 12,
+        "name": "Best Buy",
+        "hosts": [
+            "bestbuy.com"
+        ]
+    },
+    {
+        "id": "bloomingdales",
+        "group": 12,
+        "name": "Bloomingdale's",
+        "hosts": [
+            "bloomingdales.com"
+        ]
+    },
+    {
+        "id": "costco",
+        "group": 12,
+        "name": "Costco",
+        "hosts": [
+            "costco.com"
+        ]
+    },
+    {
+        "id": "dicks-sporting-goods",
+        "group": 12,
+        "name": "Dick's Sporting Goods",
+        "hosts": [
+            "dickssportinggoods.com"
+        ]
+    },
+    {
+        "id": "ebay",
+        "group": 12,
+        "name": "eBay",
+        "hosts": [
+            "ebay.com"
+        ]
+    },
+    {
+        "id": "etsy",
+        "group": 12,
+        "name": "Etsy",
+        "hosts": [
+            "etsy.com"
+        ]
+    },
+    {
+        "id": "gap",
+        "group": 12,
+        "name": "Gap",
+        "hosts": [
+            "gap.com"
+        ]
+    },
+    {
+        "id": "gymshark",
+        "group": 12,
+        "name": "Gymshark",
+        "hosts": [
+            "gymshark.com"
+        ]
+    },
+    {
+        "id": "hm",
+        "group": 12,
+        "name": "H&M",
+        "hosts": [
+            "hm.com"
+        ]
+    },
+    {
+        "id": "home-depot",
+        "group": 12,
+        "name": "Home Depot",
+        "hosts": [
+            "homedepot.com"
+        ]
+    },
+    {
+        "id": "ikea",
+        "group": 12,
+        "name": "IKEA",
+        "hosts": [
+            "ikea.com"
+        ]
+    },
+    {
+        "id": "jcrew",
+        "group": 12,
+        "name": "J.Crew",
+        "hosts": [
+            "jcrew.com"
+        ]
+    },
+    {
+        "id": "kohls",
+        "group": 12,
+        "name": "Kohl's",
+        "hosts": [
+            "kohls.com"
+        ]
+    },
+    {
+        "id": "lowes",
+        "group": 12,
+        "name": "Lowe's",
+        "hosts": [
+            "lowes.com"
+        ]
+    },
+    {
+        "id": "macys",
+        "group": 12,
+        "name": "Macy's",
+        "hosts": [
+            "macys.com"
+        ]
+    },
+    {
+        "id": "newegg",
+        "group": 12,
+        "name": "Newegg",
+        "hosts": [
+            "newegg.com"
+        ]
+    },
+    {
+        "id": "nike",
+        "group": 12,
+        "name": "Nike",
+        "hosts": [
+            "nike.com"
+        ]
+    },
+    {
+        "id": "nordstrom",
+        "group": 12,
+        "name": "Nordstrom",
+        "hosts": [
+            "nordstrom.com"
+        ]
+    },
+    {
+        "id": "old-navy",
+        "group": 12,
+        "name": "Old Navy",
+        "hosts": [
+            "oldnavy.com"
+        ]
+    },
+    {
+        "id": "overstock",
+        "group": 12,
+        "name": "Overstock",
+        "hosts": [
+            "overstock.com"
+        ]
+    },
+    {
+        "id": "pier-1",
+        "group": 12,
+        "name": "Pier 1",
+        "hosts": [
+            "pier1.com"
+        ]
+    },
+    {
+        "id": "rei",
+        "group": 12,
+        "name": "REI",
+        "hosts": [
+            "rei.com"
+        ]
+    },
+    {
+        "id": "saks-fifth-avenue",
+        "group": 12,
+        "name": "Saks Fifth Avenue",
+        "hosts": [
+            "saksfifthavenue.com"
+        ]
+    },
+    {
+        "id": "sephora",
+        "group": 12,
+        "name": "Sephora",
+        "hosts": [
+            "sephora.com"
+        ]
+    },
+    {
+        "id": "target",
+        "group": 12,
+        "name": "Target",
+        "hosts": [
+            "target.com"
+        ]
+    },
+    {
+        "id": "urban-outfitters",
+        "group": 12,
+        "name": "Urban Outfitters",
+        "hosts": [
+            "urbanoutfitters.com"
+        ]
+    },
+    {
+        "id": "walgreens",
+        "group": 12,
+        "name": "Walgreens",
+        "hosts": [
+            "walgreens.com"
+        ]
+    },
+    {
+        "id": "walmart",
+        "group": 12,
+        "name": "Walmart",
+        "hosts": [
+            "walmart.com"
+        ]
+    },
+    {
+        "id": "wayfair",
+        "group": 12,
+        "name": "Wayfair",
+        "hosts": [
+            "wayfair.com"
+        ]
+    },
+    {
+        "id": "zappos",
+        "group": 12,
+        "name": "Zappos",
+        "hosts": [
+            "zappos.com"
+        ]
+    },
+    {
+        "id": "zara",
+        "group": 12,
+        "name": "Zara",
+        "hosts": [
+            "zara.com"
+        ]
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "id": "addicting-games",
+        "group": 6,
+        "name": "Addicting Games",
+        "hosts": [
+            "addictinggames.com"
+        ]
+    },
+    {
+        "id": "agame",
+        "group": 6,
+        "name": "Agame",
+        "hosts": [
+            "agame.com"
+        ]
+    },
+    {
+        "id": "alfy",
+        "group": 6,
+        "name": "Alfy",
+        "hosts": [
+            "alfy.com"
+        ]
+    },
+    {
+        "id": "arcadepod",
+        "group": 6,
+        "name": "ArcadePod",
+        "hosts": [
+            "arcadepod.com"
+        ]
+    },
+    {
+        "id": "arcadestreet",
+        "group": 6,
+        "name": "ArcadeStreet",
+        "hosts": [
+            "arcadestreet.com"
+        ]
+    },
+    {
+        "id": "armor-games",
+        "group": 6,
+        "name": "Armor Games",
+        "hosts": [
+            "armorgames.com"
+        ]
+    },
+    {
+        "id": "battlenet",
+        "group": 6,
+        "name": "Battle.net",
+        "hosts": [
+            "battlenet.com"
+        ]
+    },
+    {
+        "id": "big-fish-games",
+        "group": 6,
+        "name": "Big Fish Games",
+        "hosts": [
+            "bigfishgames.com"
+        ]
+    },
+    {
+        "id": "blizzard-entertainment",
+        "group": 6,
+        "name": "Blizzard Entertainment",
+        "hosts": [
+            "blizzard.com"
+        ]
+    },
+    {
+        "id": "candystand",
+        "group": 6,
+        "name": "CandyStand",
+        "hosts": [
+            "candystand.com"
+        ]
+    },
+    {
+        "id": "chesscom",
+        "group": 6,
+        "name": "Chess.com",
+        "hosts": [
+            "chess.com"
+        ]
+    },
+    {
+        "id": "epic-games",
+        "group": 6,
+        "name": "Epic Games",
+        "hosts": [
+            "epicgames.com"
+        ]
+    },
+    {
+        "id": "freeonlinegames",
+        "group": 6,
+        "name": "FreeOnlineGames",
+        "hosts": [
+            "freeonlinegames.com"
+        ]
+    },
+    {
+        "id": "freewebarcade",
+        "group": 6,
+        "name": "FreeWebArcade",
+        "hosts": [
+            "freewebarcade.com"
+        ]
+    },
+    {
+        "id": "gamefaqs",
+        "group": 6,
+        "name": "GameFAQs",
+        "hosts": [
+            "gamefaqs.com"
+        ]
+    },
+    {
+        "id": "gamespot",
+        "group": 6,
+        "name": "GameSpot",
+        "hosts": [
+            "gamespot.com"
+        ]
+    },
+    {
+        "id": "gamescom",
+        "group": 6,
+        "name": "Games.com",
+        "hosts": [
+            "games.com"
+        ]
+    },
+    {
+        "id": "good-old-games",
+        "group": 6,
+        "name": "Good Old Games",
+        "hosts": [
+            "gog.com"
+        ]
+    },
+    {
+        "id": "ign",
+        "group": 6,
+        "name": "IGN",
+        "hosts": [
+            "ign.com"
+        ]
+    },
+    {
+        "id": "itchio",
+        "group": 6,
+        "name": "itch.io",
+        "hosts": [
+            "itch.io"
+        ]
+    },
+    {
+        "id": "king",
+        "group": 6,
+        "name": "King",
+        "hosts": [
+            "king.com"
+        ]
+    },
+    {
+        "id": "kongregate",
+        "group": 6,
+        "name": "Kongregate",
+        "hosts": [
+            "kongregate.com"
+        ]
+    },
+    {
+        "id": "kotaku",
+        "group": 6,
+        "name": "Kotaku",
+        "hosts": [
+            "kotaku.com"
+        ]
+    },
+    {
+        "id": "miniclip",
+        "group": 6,
+        "name": "Miniclip",
+        "hosts": [
+            "miniclip.com"
+        ]
+    },
+    {
+        "id": "mmorpgcom",
+        "group": 6,
+        "name": "MMORPG.com",
+        "hosts": [
+            "mmorpg.com"
+        ]
+    },
+    {
+        "id": "neopets",
+        "group": 6,
+        "name": "Neopets",
+        "hosts": [
+            "neopets.com"
+        ]
+    },
+    {
+        "id": "newgrounds",
+        "group": 6,
+        "name": "Newgrounds",
+        "hosts": [
+            "newgrounds.com"
+        ]
+    },
+    {
+        "id": "origin",
+        "group": 6,
+        "name": "Origin",
+        "hosts": [
+            "origin.com"
+        ]
+    },
+    {
+        "id": "playstation-network",
+        "group": 6,
+        "name": "PlayStation Network",
+        "hosts": [
+            "playstation.com"
+        ]
+    },
+    {
+        "id": "pogo",
+        "group": 6,
+        "name": "Pogo",
+        "hosts": [
+            "pogo.com"
+        ]
+    },
+    {
+        "id": "roblox",
+        "group": 6,
+        "name": "Roblox",
+        "hosts": [
+            "roblox.com"
+        ]
+    },
+    {
+        "id": "shockwave",
+        "group": 6,
+        "name": "Shockwave",
+        "hosts": [
+            "shockwave.com"
+        ]
+    },
+    {
+        "id": "steam",
+        "group": 6,
+        "name": "Steam",
+        "hosts": [
+            "steam.com",
+            "steampowered.com"
+        ]
+    },
+    {
+        "id": "xbox",
+        "group": 6,
+        "name": "Xbox",
+        "hosts": [
+            "xbox.com"
+        ]
+    },
+    {
+        "id": "y8",
+        "group": 6,
+        "name": "Y8",
+        "hosts": [
+            "y8.com"
+        ]
+    },
+    {
+        "id": "yahoo-games",
+        "group": 6,
+        "name": "Yahoo Games",
+        "hosts": [
+            "yahoo.com/games"
+        ]
+    }
+]

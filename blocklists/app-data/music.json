@@ -1,0 +1,122 @@
+[
+    {
+        "id": "amazon-music",
+        "group": 8,
+        "name": "Amazon Music",
+        "hosts": [
+            "music.amazon.com"
+        ]
+    },
+    {
+        "id": "apple-music",
+        "group": 8,
+        "name": "Apple Music",
+        "hosts": [
+            "music.apple.com",
+            "itunes.apple.com"
+        ]
+    },
+    {
+        "id": "bandcamp",
+        "group": 8,
+        "name": "Bandcamp",
+        "hosts": [
+            "bandcamp.com"
+        ]
+    },
+    {
+        "id": "deezer",
+        "group": 8,
+        "name": "Deezer",
+        "hosts": [
+            "deezer.com"
+        ]
+    },
+    {
+        "id": "gaana",
+        "group": 8,
+        "name": "Gaana",
+        "hosts": [
+            "gaana.com"
+        ]
+    },
+    {
+        "id": "iheartradio",
+        "group": 8,
+        "name": "iHeartRadio",
+        "hosts": [
+            "iheart.com",
+            "radio.iheart.com"
+        ]
+    },
+    {
+        "id": "jiosaavn",
+        "group": 8,
+        "name": "JioSaavn",
+        "hosts": [
+            "jiosaavn.com"
+        ]
+    },
+    {
+        "id": "napster",
+        "group": 8,
+        "name": "Napster",
+        "hosts": [
+            "napster.com",
+            "app.napster.com"
+        ]
+    },
+    {
+        "id": "pandora",
+        "group": 8,
+        "name": "Pandora",
+        "hosts": [
+            "pandora.com",
+            "tuner.pandora.com"
+        ]
+    },
+    {
+        "id": "qobuz",
+        "group": 8,
+        "name": "Qobuz",
+        "hosts": [
+            "qobuz.com",
+            "play.qobuz.com"
+        ]
+    },
+    {
+        "id": "soundcloud",
+        "group": 8,
+        "name": "SoundCloud",
+        "hosts": [
+            "soundcloud.com"
+        ]
+    },
+    {
+        "id": "spotify",
+        "group": 8,
+        "name": "Spotify",
+        "hosts": [
+            "spotify.com",
+            "open.spotify.com",
+            "play.spotify.com"
+        ]
+    },
+    {
+        "id": "tidal",
+        "group": 8,
+        "name": "Tidal",
+        "hosts": [
+            "tidal.com",
+            "listen.tidal.com"
+        ]
+    },
+    {
+        "id": "youtube-music",
+        "group": 8,
+        "name": "YouTube Music",
+        "hosts": [
+            "music.youtube.com"
+        ]
+    }
+]

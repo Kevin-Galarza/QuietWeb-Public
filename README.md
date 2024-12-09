@@ -1,1 +1,1 @@
-<img width="4072" alt="storyboard-quietweb" src="https://github.com/user-attachments/assets/65090f20-b4d3-4475-83a4-0d438af8f300">
+![storyboard-quietweb](https://github.com/user-attachments/assets/581e993c-8a1a-4ffe-9967-6e93e2604e07)
